@@ -6,7 +6,6 @@
 #include <sstream>
 #include <fstream>
 #include <vector>
-#include <csignal>
 
 #include "operator.h"
 #include "criptareandvalidare.h"
