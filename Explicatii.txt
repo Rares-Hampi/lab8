@@ -1,0 +1,39 @@
+Autentificarea este procesul prin care se confirmă identitatea unei persoane sau a unui sistem, pentru a accesa anumite resurse sau informații.
+ În esență, este modalitatea prin care o entitate demonstrează că este cine pretinde că este. 
+ Autentificarea poate implica utilizarea parolelor, a codurilor PIN, a amprentelor digitale, a scanării retinei sau a altor metode biometrice, sau chiar a unor dispozitive speciale de securitate, cum ar fi token-urile sau cheile de securitate hardware. 
+ Scopul principal al autentificării este să ofere acces doar utilizatorilor autorizați și să protejeze informațiile sensibile împotriva accesului neautorizat.
+
+
+Autorizarea este procesul prin care se acordă sau se refuză accesul la anumite resurse, date sau funcționalități unui sistem unei entități sau utilizatori, după ce aceștia au fost autentificați și identificați.
+Odată ce autentificarea confirmă identitatea unei persoane sau a unui sistem, autorizarea determină ce resurse sau acțiuni sunt permise acelei entități în cadrul sistemului. 
+Autorizarea se bazează pe seturi de reguli, permisiuni și politici definite anterior și poate fi determinată de rolurile sau privilegiile asociate cu identitatea respectivă.
+De exemplu, odată ce un utilizator s-a autentificat cu succes într-un sistem, autorizarea determină ce acțiuni poate realiza respectivul utilizator: poate citi anumite fișiere, poate modifica sau șterge date, poate accesa anumite funcționalități etc. 
+Autorizarea este esențială pentru menținerea securității sistemelor și pentru protejarea datelor sensibile, asigurând că doar persoanele sau entitățile autorizate pot avea acces la anumite resurse sau acțiuni.
+
+
+Login-ul este procesul prin care un utilizator accesează un sistem sau o aplicație prin furnizarea unor informații de identificare, cum ar fi numele de utilizator și parola sau alte forme de autentificare, precum amprentele digitale sau alte date biometrice. 
+În general, un login implică introducerea datelor de identificare într-un formular specific sau interfață de autentificare pentru a accesa un cont sau pentru a intra într-un sistem securizat.
+După ce informațiile de identificare sunt furnizate, sistemul verifică dacă acestea corespund cu cele stocate pentru a confirma identitatea utilizatorului și a permite accesul acestuia la resursele sau funcționalitățile respective.
+Login-ul este un prim pas crucial în procesul de securizare a accesului la date sau la un sistem informatic și este utilizat pe scară largă în întreaga lume pentru a proteja informațiile și pentru a limita accesul doar la utilizatorii autorizați.
+
+În mod normal, procesul de login într-o aplicație implică mai mulți pași:
+
+1. Introducerea datelor de autentificare: Utilizatorul introduce informațiile de identificare într-un formular specific. Aceste informații pot include un nume de utilizator, o adresă de email și o parolă sau alte forme de autentificare, cum ar fi date biometrice sau coduri de securitate.
+
+2. Transmiterea datelor către server: Informațiile introduse sunt trimise către serverul aplicației pentru verificare.
+
+3. Verificarea identității: Serverul validează datele de autentificare pentru a confirma identitatea utilizatorului. Acest proces implică de obicei compararea datelor furnizate cu informațiile stocate în baza de date a aplicației sau a sistemului.
+
+4. Acordarea accesului: Dacă datele de autentificare sunt corecte și identitatea utilizatorului este confirmată, aplicația acordă accesul la funcționalitățile sau resursele sale.
+
+Pentru a asigura o securitate suplimentară în procesul de login, se pot utiliza mai multe metode:
+
+1. Autentificare în doi pași (2FA): Această metodă implică furnizarea a două forme de autentificare pentru a confirma identitatea utilizatorului. De exemplu, în plus față de introducerea unei parole, utilizatorul ar putea primi un cod pe telefonul mobil, pe care trebuie să-l introducă pentru a completa procesul de login.
+
+2. Autentificare cu factori multipli (MFA): Similar cu autentificarea în doi pași, MFA implică utilizarea a mai multor forme de autentificare, cum ar fi parole, token-uri de securitate, date biometrice etc.
+
+3. Utilizarea certificatelor digitale: În loc de parole, certificatul digital poate fi folosit pentru autentificare. Acesta este un fișier criptografic care confirmă identitatea unui utilizator.
+
+4. Monitorizarea și detecția activității suspecte: Sistemele pot folosi tehnici de monitorizare pentru a detecta comportamente neobișnuite sau activități suspecte care ar putea indica o încercare de acces neautorizat.
+
+Aceste metode suplimentare de securitate sunt utilizate pentru a întări procesul de autentificare și pentru a reduce riscul de acces neautorizat în aplicații sau sisteme.
